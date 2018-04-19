@@ -8,6 +8,7 @@
 *.obj
 *.sln
 *.vcxproj
+*.vcxproj.user
 *.vcxproj.filters
 *.log
 *.tlog
@@ -45,3 +46,5 @@
 .vs/
 Debug/
 txt/*
+Release/
+Bin/
