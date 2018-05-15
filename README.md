@@ -2,9 +2,9 @@
 
 # Vertinimas
 
-- Truksta cmake (komentarai kaip atsisiusti/idiegti programa)
-- Truksta releasu
-- Exceptionai galutineje versijoje "dingo"
+- Truksta cmake (komentarai kaip atsisiusti/idiegti programa) 
+- Truksta releasu (sutvarkyta)
+- Exceptionai galutineje versijoje "dingo" (tvarkyta)
 
 - O visa kita lyg ir nieko 
 
